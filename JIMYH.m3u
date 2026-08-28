@@ -1,9 +1,11 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml"				
+				
+#EXTM3U   refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"				
+				
 #EXTINF:-1,N				
 http://118.142.17.190:8278/playlist.m3u8				
 				
 				
-			
+				
 				
 				
 				
@@ -703,13 +705,13 @@ https://011.854248.xyz/tvstream/	Sun_Channel	/c6eds/	pass/cqloud/playlist.mpd	|O
 				
 				
 				
-#EXTINF:-1 , Eventos 1 Flow				
+#EXTINF:-1 tvg-id="EVENTOS HD.ar"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s" group-title="EVENTOS FLOW HD", EVENTOS HD 1				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb				
 https://011.854248.xyz/tvstream/	Eventos1HD	/c3eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 ,Eventos 2 Flow				
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s" group-title="EVENTOS FLOW HD", EVENTOS HD 2				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643				
 https://011.854248.xyz/tvstream/	Eventos_2_HD	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -751,7 +753,7 @@ https://011.854248.xyz/tvstream/	Flow_Music_2	/c7eds/	pass/cqloud/playlist.mpd	|
 				
 				
 				
-#EXTINF:-1 ,Canal 5 Rosario				
+#EXTINF:-1 ,Canal 3 Rosario.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0				
 https://011.854248.xyz/tvstream/	Canal_3_Rosario	/c3eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -940,7 +942,7 @@ http://mundo2.pro/live/iker12/iker12/93104.ts
 				
 				
 				
-#EXTINF:-1 , Metro.ar				
+#EXTINF:-1  tvg-id="Metro.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XoPLYnG6WgG8KLH3aL2x7zhATYwMnjJMtw&s" , Metro.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e				
 https://011.854248.xyz/tvstream/	Metro	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -986,61 +988,61 @@ https://011.854248.xyz/tvstream/	Canal_90	/c6eds/	pass/cqloud/playlist.mpd	|Orig
 				
 				
 				
-#EXTINF:-1 , ESPN Paraguay				
+#EXTINF:-1 , ESPN.py				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef				
 https://011.854248.xyz/tvstream/	ESPN_PY	/c4eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , ESPN Uruguay				
+#EXTINF:-1 , ESPN.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175				
 https://011.854248.xyz/tvstream/	ESPN_UY	/c4eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , ESPN2 HD				
+#EXTINF:-1 , ESPN 2.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34				
 https://011.854248.xyz/tvstream/	ESPN2HD	/c3eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , ESPN2 Paraguay				
+#EXTINF:-1 , ESPN 2.py				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d				
 https://011.854248.xyz/tvstream/	ESPN2_PY	/c4eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , ESPN2 Uruguay				
+#EXTINF:-1 , ESPN 2.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847				
 https://011.854248.xyz/tvstream/	ESPN2_UY	/c4eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , ESPN3 Uruguay y Paraguay				
+#EXTINF:-1 , ESPN 3.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e				
 https://011.854248.xyz/tvstream/	ESPN3_Uy-Py	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Fox Sports.ar				
+#EXTINF:-1 , Fox Sports.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b				
 https://011.854248.xyz/tvstream/	FoxSports	/c3eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Fox Sports 2 Uruguay				
+#EXTINF:-1 , Fox Sports 2.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888				
 https://011.854248.xyz/tvstream/	FoxSports2_UY	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Fox Sports 3 Uruguay				
+#EXTINF:-1 , Fox Sports 3.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888				
 https://011.854248.xyz/tvstream/	FoxSports3_UY	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , TyC Internacional				
+#EXTINF:-1 , TyC Sports Internacional.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb				
 https://011.854248.xyz/tvstream/	TyC_Internacional	/c3eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1088,7 +1090,7 @@ https://011.854248.xyz/tvstream/	PX_Sports	/c7eds/	pass/cqloud/playlist.mpd	|Ori
 https://011.854248.xyz/tvstream/	America_Sports	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , DeporTV.ar				
+#EXTINF:-1 , DeporTv.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928				
 https://011.854248.xyz/tvstream/	DeporTVHD	/c3eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1106,7 +1108,7 @@ https://011.854248.xyz/tvstream/	DeporTVHD	/c3eds/	pass/cqloud/playlist.mpd	|Ori
 https://011.854248.xyz/tvstream/	INCAA_Tv	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Volver.ar				
+#EXTINF:-1  tvg-id="VOLVER.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTZbr55uyu51RuRBeaOm0JgS_Te31ZQlmvw&s" group-title="🎬 CINE Y SERIES", VOLVER				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe				
 https://011.854248.xyz/tvstream/	Volver	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1118,7 +1120,7 @@ https://011.854248.xyz/tvstream/	Volver	/c6eds/	pass/cqloud/playlist.mpd	|Origin
 https://011.854248.xyz/tvstream/	TCM	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , A3 Series.ar				
+EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest/smart/width/386/height/259?cb=20200629150117&path-prefix=es", Atreseries.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b				
 https://011.854248.xyz/tvstream/	A3_Series	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1136,7 +1138,7 @@ https://011.854248.xyz/tvstream/	A3_Series	/c7eds/	pass/cqloud/playlist.mpd	|Ori
 https://011.854248.xyz/tvstream/	ComedyCentral	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , A3 Cine.ar				
+#EXTINF:-1 , Atrescine.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae				
 https://011.854248.xyz/tvstream/	A3_Cine	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1154,7 +1156,7 @@ https://011.854248.xyz/tvstream/	Pasiones	/c7eds/	pass/cqloud/playlist.mpd	|Orig
 https://011.854248.xyz/tvstream/	Telemundo_HD	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Telenovelas.ar				
+#EXTINF:-1 , TLNovelas.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=60cb38a05880cd0eb429f71398609540:c251aac7943c0d1324aa9a4129f3afd4				
 https://011.854248.xyz/tvstream/	Telenovelas	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1190,7 +1192,7 @@ https://011.854248.xyz/tvstream/	Canal_Rural	/c6eds/	pass/cqloud/playlist.mpd	|O
 https://011.854248.xyz/tvstream/	Latam_Rural	/c4eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Canal de las estrellas.ar				
+#EXTINF:-1 , Las Estrellas.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166				
 https://011.854248.xyz/tvstream/	Canal_de_las_estrellas	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1202,13 +1204,13 @@ https://011.854248.xyz/tvstream/	Canal_de_las_estrellas	/c6eds/	pass/cqloud/play
 https://011.854248.xyz/tvstream/	Rede_Record	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Dnews.ar				
+#EXTINF:-1 , Dnews.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e				
 https://011.854248.xyz/tvstream/	DNews	/c7eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Argentinisima.ar				
+#EXTINF:-1 , Argentinisima Satelital.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b				
 https://011.854248.xyz/tvstream/	Argentinisima	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1238,7 +1240,7 @@ https://011.854248.xyz/tvstream/	Fox_News	/c6eds/	pass/cqloud/playlist.mpd	|Orig
 https://011.854248.xyz/tvstream/	Vorterix	/c6eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , ID.ar				
+#EXTINF:-1 , Investigation Discovery.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c				
 https://011.854248.xyz/tvstream/	ID	/c37eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -1250,28 +1252,31 @@ https://011.854248.xyz/tvstream/	ID	/c37eds/	pass/cqloud/playlist.mpd	|Origin=ht
 				
 				
 				
-#EXTINF:-1, Playboy.ar				
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adulto", Playboy.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb				
 https://011.854248.xyz/tvstream/	Playboy	/c1eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Venus.ar				
+#EXTINF:-1 tvg-id="Venus.ar" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" ch-number="1002" type="channel", Venus.ar				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af				
 https://011.854248.xyz/tvstream/	Venus	/c1eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Hustler.ar				
+#EXTINF:-1 tvg-id="Sextreme.ar" tvg-name="Sextreme (18+)" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg" group-title="Adulto" ch-number="1001" type="channel", Sextreme.ar				
+#KODIPROP:inputstream.adaptive.license_type=clearkey				
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434				
+https://011.854248.xyz/tvstream/	Sextreme	/c1eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+				
+				
+#EXTINF:-1 tvg-id="Sextreme.ar" tvg-name="Sextreme (18+)" tvg-logo="" group-title="Adulto" ch-number="1002" type="channel", Hustler TV.uy				
 #KODIPROP:inputstream.adaptive.license_type=clearkey				
 #KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2				
 https://011.854248.xyz/tvstream/	Hustler	/c1eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 				
 				
-#EXTINF:-1 , Sextreme.ar				
-#KODIPROP:inputstream.adaptive.license_type=clearkey				
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434				
-https://011.854248.xyz/tvstream/	Sextreme	/c1eds/	pass/cqloud/playlist.mpd	|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
 				
 				
 						
