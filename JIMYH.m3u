@@ -268,7 +268,7 @@ https://011.854248.xyz/tvstream/TyCSport/c7eds/pass/cqloud/playlist.mpd|Origin=h
 
 #EXTINF:-1 tvg-id="232361" tvg-name="HBO.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png", HBO.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b059cdbfc787a32f57fbcb6e52dbc0a0:50648d7806624eb8d53fb2aecc8b1af1
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28f1
 https://011.854248.xyz/tvstream/HBOHD/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
@@ -1002,6 +1002,12 @@ https://011.854248.xyz/tvstream/Telenovelas/c6eds/pass/cqloud/playlist.mpd|Origi
 https://011.854248.xyz/tvstream/Adult_Swim/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
+#EXTINF:-1 , Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+https://011.854248.xyz/tvstream/Dreamworks/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+
 #EXTINF:-1 , Universal Comedy.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
@@ -1093,10 +1099,10 @@ https://011.854248.xyz/tvstream/Diputados_TV/c6eds/pass/cqloud/playlist.mpd|Orig
 https://011.854248.xyz/tvstream/Canal_Rural/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 , Latam Rural.ar
+#EXTINF:-1 , Caras
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abdfd83824e9ba585f74fb72c647aa4f:9967e06e39893998d16714988d9d87f1
-https://011.854248.xyz/tvstream/Latam_Rural/c4eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=3440f1a9a7f87b9816efae067a04a928:3e3001c17db578d3fa22c8b8517813c4
+https://011.854248.xyz/tvstream/CARAS/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 , Encuentro.ar
@@ -1298,6 +1304,8 @@ http://mundo2.pro/live/iker12/iker12/317157.ts
 http://mundo2.pro/live/iker12/iker12/317112.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://daleplaypro.com:8080/images/1101ff95c5bd5fb6a2528002ae896226.png" group-title="♐ 24/7 PELICULAS ♐",24/7 l RETROcine TV
 http://mundo2.pro/live/iker12/iker12/93104.ts
+
+
 			
 			
 				
