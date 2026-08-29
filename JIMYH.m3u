@@ -264,6 +264,10 @@ https://011.854248.xyz/tvstream/TyCSport/c7eds/pass/cqloud/playlist.mpd|Origin=h
 
 
 
+#EXTINF:-1 tvg-id="232361" tvg-name="HBO.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png", HBO.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b059cdbfc787a32f57fbcb6e52dbc0a0:50648d7806624eb8d53fb2aecc8b1af1
+https://011.854248.xyz/tvstream/HBOHD/c4eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 tvg-id="232361" tvg-name="HBO.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png", HBO.ar
