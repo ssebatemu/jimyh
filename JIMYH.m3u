@@ -522,16 +522,17 @@ http://45.5.118.188:8000/play/a06g/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/1920px-Nitro.svg.png", Nitro
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.cl
+#EXTINF:-1 tvg-id="0831" tvg-name="Clover Channel" tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover Channel
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-c.udemycdn.com/course/480x270/4382014_b5da_2.jpg?w=3840&q=75", MX Prime
 http://190.211.172.203:4000/play/a0xu/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
+#EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
 http://200.229.147.210:9999/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
+#EXTINF:-1 tvg-id="0838" tvg-name="MultiPremier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", MultiPremier
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", .pe
 http://24.152.54.30:8085/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKD1H6RlPjDdN7N9TfKgb5H3DNzpOBVkYZ3sqX6rSx2JqjuEQM", Cine Prime
