@@ -532,16 +532,15 @@ http://190.211.172.203:4000/play/a0xu/index.m3u8
 http://200.229.147.210:9999/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="0838" tvg-name="MultiPremier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", MultiPremier
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", .pe
 http://24.152.54.30:8085/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKD1H6RlPjDdN7N9TfKgb5H3DNzpOBVkYZ3sqX6rSx2JqjuEQM", Cine Prime
+#EXTINF:-1 tvg-id="0123" tvg-name="Home Cine Prime" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKD1H6RlPjDdN7N9TfKgb5H3DNzpOBVkYZ3sqX6rSx2JqjuEQM", Home Cine Prime
 http://190.61.114.186:8000/play/a04u/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnt9n0sPiqKy6TasfpJNIiPqobRTPOjg9sMznbOcpfjDUa7Ox7", AVI
+#EXTINF:-1 tvg-id="0860" tvg-name="AVI" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnt9n0sPiqKy6TasfpJNIiPqobRTPOjg9sMznbOcpfjDUa7Ox7", AVI
 http://181.78.121.15:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
+#EXTINF:-1 tvg-id="0849" tvg-name="Rewind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewind
 http://201.187.96.54:8000/play/104
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
