@@ -979,12 +979,6 @@ https://011.854248.xyz/tvstream/A3_Series/c7eds/pass/cqloud/playlist.mpd|Origin=
 https://011.854248.xyz/tvstream/Pasiones/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-
-
-
-
-
-
 #EXTINF:-1 , TLNovelas.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60cb38a05880cd0eb429f71398609540:c251aac7943c0d1324aa9a4129f3afd4
@@ -1025,15 +1019,6 @@ https://011.854248.xyz/tvstream/ID/c37eds/pass/cqloud/playlist.mpd|Origin=https:
 
 
 
-
-
-
-#EXTINF:-1 , Rede Record.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0bd8ea11b3f4c219903085ef1d44b0d:9a25709a72c2ca93cb738665736cfa5a
-https://011.854248.xyz/tvstream/Rede_Record/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
-
 #EXTINF:-1 , Dnews.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
@@ -1064,12 +1049,6 @@ https://011.854248.xyz/tvstream/KZO/c6eds/pass/cqloud/playlist.mpd|Origin=https:
 https://011.854248.xyz/tvstream/Metro/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 , MixTV.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
-https://011.854248.xyz/tvstream/MixTV/c4eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
-
 #EXTINF:-1 , Ar12.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
@@ -1082,10 +1061,7 @@ https://011.854248.xyz/tvstream/Investigacion_Periodistica/c7eds/pass/cqloud/pla
 https://011.854248.xyz/tvstream/Canal_U/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 ,Diputados TV.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
-https://011.854248.xyz/tvstream/Diputados_TV/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
 
 
 #EXTINF:-1 , Canal Rural.ar
@@ -1109,7 +1085,7 @@ https://011.854248.xyz/tvstream/Encuentro/c6eds/pass/cqloud/playlist.mpd|Origin=
 #EXTINF:-1 , Ciudad Magazine.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-https://011.854248.xyz/tvstream/Magazine/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+https://011.854248.xyz/tvstream/Magazine/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 , Argentinisima Satelital.ar
@@ -1158,6 +1134,7 @@ https://011.854248.xyz/tvstream/Sextreme/c6eds/pass/cqloud/playlist.mpd|Origin=h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
 https://011.854248.xyz/tvstream/Hustler/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
 
 
 
