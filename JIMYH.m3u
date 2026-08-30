@@ -505,10 +505,10 @@ https://011.854248.xyz/tvstream/Universal_Reality/c6eds/pass/cqloud/playlist.mpd
 
 
 #EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
-http://38.211.145.109:8000/play/a042/index.m3u8
+http://45.186.254.75:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
-http://38.211.145.109:8000/play/a046/index.m3u8?hls
+http://45.186.254.75:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
 https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
