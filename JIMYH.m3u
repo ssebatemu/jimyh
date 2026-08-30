@@ -1,4 +1,4 @@
-#EXTM3U   refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
+#EXTM3U   refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml,https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml"
 
 #EXTINF:-1,N
 http://118.142.17.190:8278/playlist.m3u8
