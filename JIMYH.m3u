@@ -1,4 +1,4 @@
-#EXTM3U   refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
 
 #EXTINF:-1,N
 http://118.142.17.190:8278/playlist.m3u8
@@ -422,6 +422,12 @@ https://011.854248.xyz/tvstream/WarnerHD/c7eds/pass/cqloud/playlist.mpd|Origin=h
 https://011.854248.xyz/tvstream/Europa_Europa/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
+#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+https://011.854248.xyz/tvstream/DHE/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+
 
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
@@ -440,12 +446,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://011.854248.xyz/tvstream/USA_Network/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
-https://011.854248.xyz/tvstream/DHE/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
-
 #EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
@@ -462,8 +462,6 @@ https://011.854248.xyz/tvstream/Universal_Channel_HD/c6eds/pass/cqloud/playlist.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
 https://011.854248.xyz/tvstream/Universal_Premiere/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
-
 
 
 #EXTINF:-1 tvg-id="232355" tvg-name="TNT Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series.ar
@@ -523,7 +521,7 @@ http://190.211.172.203:4000/play/a0xu/index.m3u8
 #EXTINF:-1 tvg-id="0839" tvg-name="Multicinema" tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
 http://200.229.147.210:9999/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="0838" tvg-name="MultiPremier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", MultiPremier
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
 http://24.152.54.30:8085/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="0123" tvg-name="Home Cine Prime" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKD1H6RlPjDdN7N9TfKgb5H3DNzpOBVkYZ3sqX6rSx2JqjuEQM", Home Cine Prime
@@ -611,7 +609,7 @@ https://011.854248.xyz/tvstream/CNN_en_Espanol/c6eds/pass/cqloud/playlist.mpd|Or
 https://011.854248.xyz/tvstream/TV5_Monde/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 ,Bandeirantes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png”, Bandeirantes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
 https://011.854248.xyz/tvstream/Bandeirantes/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
@@ -658,7 +656,7 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 https://011.854248.xyz/tvstream/MTV_HD/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Telehit_logo_2020.png", Telehit.uy
+#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://i.ibb.co/xS9pMz6C/0507.jpg", Telehit.uy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -724,21 +722,19 @@ https://011.854248.xyz/tvstream/Canal_5_Rosario/c4eds/pass/cqloud/playlist.mpd|O
 
 
 
-#EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DSports Argentina.uy
+#EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png", DSports Argentina.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db80473af2ed318c41d879f2822203e:d30f94e60344adf0f4b242a5952575ad
 https://011.854248.xyz/tvstream/DSports_1/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg", DSports 2.uy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png", DSports 2.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0dd493fa74640442abd75139b67307d6:31cf4295392d939a97f3b60ebf1ceb44
 https://011.854248.xyz/tvstream/DSports_2/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png", DSportsPlus.uy
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png", DSportsPlus.uy
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -802,7 +798,7 @@ https://011.854248.xyz/tvstream/America_Sports/c6eds/pass/cqloud/playlist.mpd|Or
 https://011.854248.xyz/tvstream/DeporTVHD/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1T0Blm6URxit20bEVZLCEV6m1hOkH6xZ2u05bv7Q5h_yfN4IJp64hs2l&s=10”,  CAZE TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png”,  CAZE TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://cdn.stmify.com/primevideo/stream/CAZE_TV/cenc.mpd
@@ -823,7 +819,7 @@ https://011.854248.xyz/tvstream/CARAS/c7eds/pass/cqloud/playlist.mpd|Origin=http
 #EXTINF:-1 tvg-logo="" , Ciudad Magazine.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-https://011.854248.xyz/tvstream/Magazine/c6eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+https://011.854248.xyz/tvstream/Magazine/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 ,Telemax.ar
@@ -907,7 +903,7 @@ https://011.854248.xyz/tvstream/universal_Crime/c6eds/pass/cqloud/playlist.mpd|O
 #EXTINF:-1 , Investigation Discovery.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-https://011.854248.xyz/tvstream/ID/c37eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+https://011.854248.xyz/tvstream/ID/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 
@@ -968,7 +964,7 @@ https://011.854248.xyz/tvstream/Volver/c6eds/pass/cqloud/playlist.mpd|Origin=htt
 https://011.854248.xyz/tvstream/Adult_Swim/c3eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", Dreamworks
+#EXTINF:-1 tvg-id="0309" tvg-name="DreamWorks TV" tvg-logo="https://i.ibb.co/CpT58kY5/0309.jpg", DreamWorks TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://011.854248.xyz/tvstream/Dreamworks/c7eds/pass/cqloud/playlist.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
