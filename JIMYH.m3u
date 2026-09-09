@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
 
 #EXTINF:-1,N
@@ -1236,8 +1237,8 @@ https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 , Fox Sports.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=37730b00a5f92084c47a8129e84559f3:a2e20a45a057ff4e7c0bc2ad49e6f3e5
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 , TyC Sports Internacional.uy
