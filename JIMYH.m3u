@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
 
 #EXTINF:-1,N
@@ -768,7 +769,7 @@ https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 , NBA TV.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
+#KODIPROP:inputstream.adaptive.license_key=1a9ded52bb6b4a95ceaf0225f6ec950d:96ddfcf278a5103f3a4535efcb3cada2
 https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
@@ -1048,26 +1049,26 @@ https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 tvg-id="Playboy.ar" tvg-name="Playboy.ar" tvg-logo="https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1" group-title="Adulto", Playboy.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/Playboy/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Playboy.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=6a0ebedf9b843ecaa615eeee508e22ef:25301d1dfcfff441973e67aac4eb0d72
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 tvg-id="Venus.ar" tvg-name="Venus.uy" tvg-logo="https://dl.dropbox.com/scl/fi/ccb7fp8758t7obaa9037c/venus.jpg?rlkey=tyvcaenu68rwe1ir2hj9amtc9&dl=1" group-title="Adulto" , Venus.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/Venus/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Venus.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=265097b1ae398c246f5cbef41d3b4743:1468bf2475eef200460d45eb8c20788f
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 tvg-id="Sextreme.ar" tvg-name="Sextreme (18+)" tvg-logo="https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg" group-title="Adulto", Sextreme.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/Sextreme/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Sextreme.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=33778b419e73dfa8cdc3195ff1bfc2c8:1123d28a4b95862fadc1828957e48e93
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 tvg-id="Hustler TV.uy" tvg-name="Hustler" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Adulto", Hustler TV.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2
-https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c7eds/Hustler/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Hustler.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.license_key=bb64c035a95aade0d9a199c330a54d40:df87d826296be9e710b443e769dd2833
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 #EXTINF:-1 group-title="Adulto", sic
@@ -1274,4 +1275,3 @@ https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2d826c634f1c4013859ddd16f5bac42:44424471e931147ae3d5c0f0e732d73d
 https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTM3MDY3Iiwic2lwIjoiMTkwLjEwMy44NC4xNTAiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4NDBmYTAwNDk0OTdhNGU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.mo-5RpZu967D_Xs7GBw9HC-PZxQcNSi0isuA--TCYspkQYGf3qt2Vf0jK8VsKWWmey7Ila-tiz991RgOHk7AKg==/live/c7eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
