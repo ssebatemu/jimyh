@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
 
 #EXTINF:-1,N
-https://bestleague.life/tok2.html?get=VGVsZWZlSEQ%3D&start=true
+https://edge-live19-hr.cvattv.com.ar
 
 
 
@@ -1274,3 +1274,8 @@ https://edge-live19-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2d826c634f1c4013859ddd16f5bac42:44424471e931147ae3d5c0f0e732d73d
 https://edge-live19-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjU3Mjg1Iiwic2lwIjoiMTkwLjEwMy44NC4xNTgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4MjAxNmU4NzM1ZjhjMGVmIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzQ1Iiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.1eFgXViItk0Ki-y2eQi_5j1GMDRAkC-lEGWYQhjUDJ-dXWZ1-WHwGu6pG_Zb3vQeZITzJT-wVxM5Ef5z5cwlIw==/live/c7eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+
+
+#EXTINF:-1,N
+https://bestleague.life/tok2.html?get=VGVsZWZlSEQ%3D&start=true
