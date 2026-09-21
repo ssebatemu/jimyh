@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
 
-#EXTINF:-1,N
-http://118.142.17.190:8278/playlist.m3u8
+#EXTINF:-1 tvg-id="America TV" tvg-name="America TV" tvg-logo="https://githubusercontent.com" group-title="🏙️ Buenos Aires",America TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTMINFO:http-referrer=https://tvlibreonline.st
+https://tvlibreonline.sthtml/fl/?get=QW1lcmljYVRW
 
 
 
