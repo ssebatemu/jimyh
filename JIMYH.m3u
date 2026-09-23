@@ -1,7 +1,28 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml,https://www.open-epg.com/files/paraguay2.xml"
 
-#EXTINF:-1,N
-http://118.142.17.190:8278/playlist.m3u8
+#EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0dbf670ea1084843ae856f13b1739eca:76e10b838963427d1b5651b6d6285db7
+https://ciades.providers.com.ar/AMERICA/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+#EXTINF:-1 tvg-id="230938" tvg-name="TVPublica.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=966637bc7b93469dbc11f1e3e47ae1b1:9f6d7c829f83851ded182f8486a298bd
+https://ciades.providers.com.ar/TVPUBLICA/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+#EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f53ac7f35724e83942bd409ce66be68:70339faa8062d34b29aafcd534c3c4f8
+https://ciades.providers.com.ar/ELNUEVE/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c659a49c7e74e0ea972f80435ae9954:178ee00cd1b28e8cd67564fd242a217d
+https://ciades.providers.com.ar/TELEFE/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
+
 
 
 
