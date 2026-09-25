@@ -7,6 +7,22 @@
 #KODIPROP:inputstream.adaptive.license_key=43914631b0e341a5b89a4057bc5969d3:8b51ea9d538a76951a2f38aa1762632a,01b64a456b9e4214bb3f1555a8046354:8b51ea9d538a76951a2f38aa1762632a,3ca1ea551743402fb2e27c6dfccabdec:8b51ea9d538a76951a2f38aa1762632a
 https://megatvcdn1-sl.megacable.com.ar/content/live/Telefe_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6 
 
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01b64a456b9e4214bb3f1555a8046354:8b51ea9d538a76951a2f38aa1762632a
+https://megatvcdn1-sl.megacable.com.ar/content/live/Telefe_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6 
+
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ca1ea551743402fb2e27c6dfccabdec:8b51ea9d538a76951a2f38aa1762632a
+https://megatvcdn1-sl.megacable.com.ar/content/live/Telefe_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93vbP6Xf/CINEMAX.png" group-title="Cine y Series",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/playlist.m3u8
