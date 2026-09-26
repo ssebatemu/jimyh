@@ -528,8 +528,8 @@ http://190.61.114.186:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="0860" tvg-name="AVI" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnt9n0sPiqKy6TasfpJNIiPqobRTPOjg9sMznbOcpfjDUa7Ox7", AVI
 http://181.78.121.15:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 tvg-id="0849" tvg-name="Rewind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewind
-
+#EXTINF:-1, FXM
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/13972
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
 http://181.78.15.155:9800/play/a00e
