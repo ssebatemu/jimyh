@@ -749,6 +749,70 @@ https://edge-live23-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 1
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 2
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 3
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 4
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 5
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/6.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 6
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 7
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 8
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 9
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/10.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 10
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 11
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 12
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/13.m3u8
 
 
 #EXTINF:-1 , ESPN 5.uy
